@@ -1,0 +1,66 @@
+﻿<!--?xml version="1.0"?-->
+<settings>
+   
+  <!-- for detailed info about the settings see http://webgrabplus.com/node/30 -->
+   
+  <filename>C:\Users\CarlosH\Documents\GitHub\tvguide\guide.xml</filename>
+  <mode></mode>
+  <postprocess run="n" grab="y">mdb</postprocess>
+  <proxy>automatic</proxy>
+  <user-agent>Mozilla/5.0 (Windows NT 6.1; WOW64; rv:29.0) Gecko/20100101 Firefox/29.0</user-agent>
+  <logging>on</logging>
+  <retry time-out="5">4</retry>
+  <skip>noskip</skip>
+  <timespan>2</timespan>
+  <update>s</update>
+ 
+  <!-- replace the next dummy channel entry with the channels you want -->
+  <!-- see http://webgrabplus.com/node/94 for the available sites/channels -->
+    <channel update="i" site="entutele.com" site_id="/canal/canal-2-hd" xmltv_id="CANAL DE LAS ESTRELLAS HD">CANAL DE LAS ESTRELLAS HD</channel>    
+    <channel update="i" site="entutele.com" site_id="/canal/foro-tv-hd" xmltv_id="FORO TV">FORO TV</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/canal-5-hd" xmltv_id="CANAL 5 HD">CANAL 5 HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/azteca-7" xmltv_id="AZTECA 7 HD">AZTECA 7 HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/gala-tv" xmltv_id="GALA TV">GALA TV</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/fox" xmltv_id="FOX HD">FOX HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/sony-hd" xmltv_id="SONY">SONY</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/warner-hd" xmltv_id="WARNER HD">WARNER HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/universal-hd" xmltv_id="UNIVERSAL CHANNEL HD">UNIVERSAL CHANNEL HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/fx-hd" xmltv_id="FX HD">FX HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/ae" xmltv_id="A&amp;E HD">A&amp;E HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/fox-life" xmltv_id="FOX LIFE">FOX LIFE</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/discovery-kids" xmltv_id="DISCOVERY KIDS">DISCOVERY KIDS</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/cbeebies" xmltv_id="CBEEBIES">CBEEBIES</channel>	
+    <channel update="i" site="entutele.com" site_id="/canal/disney-channel" xmltv_id="DISNEY CHANNEL">DISNEY CHANNEL</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/disney-jr" xmltv_id="DISNEY JUNIOR">DISNEY JUNIOR</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/disney-xd" xmltv_id="DISNEY XD">DISNEY XD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/nick-hd" xmltv_id="NICK HD">NICK HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/nick-jr" xmltv_id="NICK JR">NICK JR</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/cartoon-network" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/history-hd" xmltv_id="HISTORY HD">HISTORY HD</channel>  
+    <channel update="i" site="entutele.com" site_id="/canal/hd-theater" xmltv_id="DISCOVERY HD THEATER">DISCOVERY HD THEATER</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/home-and-health-hd" xmltv_id="H&amp;H">H&amp;H</channel> 
+    <channel update="i" site="entutele.com" site_id="/canal/discovery-channel" xmltv_id="DISCOVERY CHANNEL">DISCOVERY CHANNEL</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/discovery-civilization" xmltv_id="DISCOVERY CIVILIZATION">DISCOVERY CIVILIZATION</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/discovery-turbo" xmltv_id="DISCOVERY TURBO">DISCOVERY TURBO</channel> 
+    <channel update="i" site="entutele.com" site_id="/canal/h2" xmltv_id="H2">H2</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/tlc-hd" xmltv_id="TLC">TLC</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/natgeo" xmltv_id="NATGEO">NATGEO</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/natgeo-wild-hd" xmltv_id="NATGEO WILD HD">NATGEO WILD HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/hbo-2" xmltv_id="HBO 2 Latinoamerica">HBO 2 Latinoamerica</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/hbo-family-e" xmltv_id="HBO Family Latinoamerica">HBO Family Latinoamerica</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/hbo-hd" xmltv_id="HBO HD">HBO HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/hbo-plus-e" xmltv_id="HBO Plus Este">HBO Plus Este</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/hbo-plus-w" xmltv_id="HBO Plus Oeste">HBO Plus Oeste</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/hbo-signature" xmltv_id="HBO Signature Latinoamerica">HBO Signature Latinoamerica</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/max-hd" xmltv_id="MAX">MAX</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/max-prime-e" xmltv_id="Max Prime Este">Max Prime Este</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/max-prime-w" xmltv_id="Max Prime Oeste">Max Prime Oeste</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/nfl-network-hd" xmltv_id="NFL NETWORK">NFL NNETWORK</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/espn" xmltv_id="ESPN HD">ESPN HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/espn-2" xmltv_id="ESPN 2 HD">ESPN 2 HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/espn-3" xmltv_id="ESPN 3 HD">ESPN 3 HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/fox-sports-2-hd" xmltv_id="FOX SPORTS 2 HD">FOX SPORTS 2 HD</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/fox-sports-3" xmltv_id="Fox Sports 3">Fox Sports 3</channel>
+    <channel update="i" site="entutele.com" site_id="/canal/fox-sports-hd" xmltv_id="FOX SPORTS HD">FOX SPORTS HD</channel>
+    
+</settings>
