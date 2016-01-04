@@ -757,7 +757,7 @@
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20160104063000 -0600" stop="20160104113000 -0600" channel="FORO TV">
+  <programme start="20160104063000 -0600" stop="20160104083000 -0600" channel="FORO TV">
     <title lang="es">El Mañanero</title>
     <desc lang="es">Brozo, con su característica forma de ser, pondrá sobre la mesa los problemas de nuestra sociedad, su objetivo hacer conciencia en los mexicanos para enfrentar lo que acontece en el país(n)</desc>
     <credits>
@@ -766,20 +766,15 @@
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104113000 -0600" channel="FORO TV">
-    <title lang="es">Paralelo 23</title>
-    <desc lang="es">Programa de noticias que busca difundir y explicar, de manera concreta y ágil, los sucesos y personajes que marcan el día a día en México y el mundo entero(n)</desc>
+  <programme start="20160104083000 -0600" stop="20160104130000 -0600" channel="FORO TV">
+    <title lang="es">Matutino Express</title>
+    <desc lang="es">Con una visión diferente y humor mantente informacdo por el equipo de Esteban Arce sobre lso acontecimientos más relevantes en el país(n)</desc>
     <credits>
-      <actor>Ana Paula Ordorica</actor>
-    </credits>
-    <category lang="es">Noticias</category>
-    <category lang="es">Noticiero</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104130000 -0600" channel="FORO TV">
-    <title lang="es">Paralelo 23</title>
-    <desc lang="es">Programa de noticias que busca difundir y explicar, de manera concreta y ágil, los sucesos y personajes que marcan el día a día en México y el mundo entero(n)</desc>
-    <credits>
-      <actor>Ana Paula Ordorica</actor>
+      <actor>José Ramón San Cristóbal</actor>
+      <actor>Esteban Arce</actor>
+      <actor>Adriana Riveramelo</actor>
+      <actor>Helena Guerrero</actor>
+      <actor>David Ramos</actor>
     </credits>
     <category lang="es">Noticias</category>
     <category lang="es">Noticiero</category>
@@ -1440,7 +1435,7 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="CANAL 5 HD">
+  <programme start="20160104090000 -0600" stop="20160104100000 -0600" channel="CANAL 5 HD">
     <title lang="es">El Chavo Animado</title>
     <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
     <credits>
@@ -1450,12 +1445,16 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="CANAL 5 HD">
-    <title lang="es">El Chavo Animado</title>
-    <desc lang="es">El personaje que hace más de 35 años ha conquistado a millones de televidentes en el mundo por su humor blanco, espontáneo y auténtico llega en su versió animada con aventuras completamente nuevas(n)</desc>
+  <programme start="20160104100000 -0600" stop="20160104120000 -0600" channel="CANAL 5 HD">
+    <title lang="es">Las Tortugas Ninja Adolescentes Mutantes</title>
+    <desc lang="es">Cuatro pequeñas tortugas mutarán por culpa de un extraño lodo verde, el maestro Splinter les dará cobijo y les enseñará todo sobre las Artes Marciales. Cuando sean por fin Ninjas profesionales saldrán a las calles de Nueva York para proteger a la humanidad de cualquier mal(n)</desc>
     <credits>
-      <actor>Jesús Guzmán</actor>
-      <actor>Heriberto López De Anda</actor>
+      <actor>Sean Astin</actor>
+      <actor>Jason Biggs</actor>
+      <actor>Greg Cipes</actor>
+      <actor>Seth Green</actor>
+      <actor>Hoon Lee</actor>
+      <actor>Nolan North</actor>
     </credits>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
@@ -2112,17 +2111,17 @@
     <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="AZTECA 7 HD">
+  <programme start="20160104100000 -0600" stop="20160104103000 -0600" channel="AZTECA 7 HD">
     <title lang="es">Inova</title>
     <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="AZTECA 7 HD">
+  <programme start="20160104103000 -0600" stop="20160104110000 -0600" channel="AZTECA 7 HD">
     <title lang="es">Inova</title>
     <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="AZTECA 7 HD">
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="AZTECA 7 HD">
     <title lang="es">Inova</title>
     <desc lang="es">Promoción y venta de productos por televisión(n)</desc>
     <category lang="es">Variedades</category>
@@ -2735,33 +2734,19 @@
     <category lang="es">Venta y Publicidad</category>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="GALA TV">
+  <programme start="20160104090000 -0600" stop="20160104093000 -0600" channel="GALA TV">
     <title lang="es">Infomax</title>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104110000 -0600" channel="GALA TV">
-    <title lang="es">El hijo de Huracán Ramírez</title>
-    <desc lang="es">Un luchador es detenido como sospechoso de un asalto, pero su hijo logra capturar a los verdaderos responsables(n)</desc>
+  <programme start="20160104093000 -0600" stop="20160104130000 -0600" channel="GALA TV">
+    <title lang="es">Lo mejor de aquí y ahora</title>
+    <desc lang="es">Revive lo mejor de "Aquí y ahora", la revista de noticias más importante para estar al día sobre temas controversiales analizados a fondo(n)</desc>
     <credits>
-      <actor>David Silva</actor>
-      <actor>Titina Romay</actor>
-      <actor>Pepe Romay</actor>
-      <actor>Joselito Rodríguez</actor>
+      <actor>Teresa Rodríguez</actor>
+      <actor>María Elena Salinas</actor>
     </credits>
-    <category lang="es">Cine</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20160104110000 -0600" stop="20160104130000 -0600" channel="GALA TV">
-    <title lang="es">El hijo de Huracán Ramírez</title>
-    <desc lang="es">Un luchador es detenido como sospechoso de un asalto, pero su hijo logra capturar a los verdaderos responsables(n)</desc>
-    <credits>
-      <actor>David Silva</actor>
-      <actor>Titina Romay</actor>
-      <actor>Pepe Romay</actor>
-      <actor>Joselito Rodríguez</actor>
-    </credits>
-    <category lang="es">Cine</category>
-    <category lang="es">Drama</category>
+    <category lang="es">Variedades</category>
+    <category lang="es">Magazine</category>
   </programme>
   <programme start="20160104130000 -0600" stop="20160104140000 -0600" channel="GALA TV">
     <title lang="es">La patrona</title>
@@ -4326,7 +4311,7 @@
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20160104080000 -0600" stop="20160104110000 -0600" channel="SONY">
+  <programme start="20160104080000 -0600" stop="20160104083000 -0600" channel="SONY">
     <title lang="es">Seinfeld</title>
     <sub-title lang="es">The Cheever Letters</sub-title>
     <desc lang="es">Diviértete con Jerry Seinfeld y sus tres amigos, Kramer, George Costanza y Elaine Benes, pues sus excéntricas personalidades los harán salir victoriosos de diferentes situaciones y todas las personas que los conozcan tendrán sus sueños o pretensiones hechos añicos(n)</desc>
@@ -4339,7 +4324,19 @@
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="SONY">
+  <programme start="20160104083000 -0600" stop="20160104110000 -0600" channel="SONY">
+    <title lang="es">Flores de acero</title>
+    <desc lang="es">Lo único que tienen en común seis mujeres de un mismo pueblo de Lousiana, es su asistencia a la peluquería. Allí se reúnen para comentar todo lo que sucede en sus vidas y lo que está pasando en el pueblo(n)</desc>
+    <credits>
+      <actor>Shirley MacLaine</actor>
+      <actor>Sally Field</actor>
+      <actor>Julia Roberts</actor>
+      <actor>Herbert Ross</actor>
+    </credits>
+    <category lang="es">Pelicula</category>
+    <category lang="es">Drama</category>
+  </programme>
+  <programme start="20160104110000 -0600" stop="20160104133000 -0600" channel="SONY">
     <title lang="es">Rules of engagement</title>
     <sub-title lang="es">The Four Pillars</sub-title>
     <desc lang="es">Esta nueva comedia relata las vivencias y aventuras de un grupo de amigos que se encuentran en diferentes facetas de sus vidas: una pareja recién casada, un soltero empedernido que sale con alguien diferente todas las semanas y una pareja casada desde hace unos años(n)</desc>
@@ -4349,18 +4346,6 @@
       <actor>Patrick Warburton</actor>
     </credits>
     <category lang="es">Series</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104113000 -0600" channel="SONY">
-    <title lang="es">Vida y amores de una diablesa</title>
-    <desc lang="es">Ruth, decide vengar la infidelidad de su marido, con la hermosa escritora, Mary Fisher, reina de las novelas románticas. Pone en marcha un meticuloso plan para acabar con todo aquello que es importante para Bob(n)</desc>
-    <category lang="es">Pelicula</category>
-    <category lang="es">Comedia</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104133000 -0600" channel="SONY">
-    <title lang="es">Vida y amores de una diablesa</title>
-    <desc lang="es">Ruth, decide vengar la infidelidad de su marido, con la hermosa escritora, Mary Fisher, reina de las novelas románticas. Pone en marcha un meticuloso plan para acabar con todo aquello que es importante para Bob(n)</desc>
-    <category lang="es">Pelicula</category>
     <category lang="es">Comedia</category>
   </programme>
   <programme start="20160104133000 -0600" stop="20160104160000 -0600" channel="SONY">
@@ -5443,7 +5428,7 @@
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20160104084500 -0600" stop="20160104110000 -0600" channel="WARNER HD">
+  <programme start="20160104084500 -0600" stop="20160104091000 -0600" channel="WARNER HD">
     <title lang="es">La Teoría del Big Bang</title>
     <sub-title lang="es">The leftover thermalization</sub-title>
     <desc lang="es">Leonard y Sheldon son dos físicos brillantes, genios en el laboratorio pero socialmente ineptos. Penny, su hermosa vecina, ha intentado enseñarles unas cuantas cosas sobre la vida desde hace siete años, cuando se mudó al apartamento de enfrente. Ahora disfrutan juntos de las frecuentes visitas a Cheesecake Factory y la tienda de comics, con su cada vez más grande universo de amigos, incluyendo a sus colegas científicos Howard, Raj, Amy y Bernadette(n)</desc>
@@ -5457,24 +5442,21 @@
     <category lang="es">Series</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104112500 -0600" channel="WARNER HD">
-    <title lang="es">Friends</title>
-    <sub-title lang="es">The One Where Ross Dates a Student</sub-title>
-    <desc lang="es">Ross, Rachel, Mónica, Chandler, Joey y Phoebe forman un grupo de seis amigos que luchan por salir adelante en la competitiva y poblada ciudad de New York. Su picante humor e incondicional apoyo hacen que su amistad sea cada vez más fuerte, superando todos los obstáculos. Trabajo, familia, responsabilidad, dinero, sexo, compromiso y amor son algunos de los temas que preocupan y a la vez disfrutan estos personajes(n)</desc>
+  <programme start="20160104091000 -0600" stop="20160104110000 -0600" channel="WARNER HD">
+    <title lang="es">Sueño de amor</title>
+    <desc lang="es">Marisa Ventura es una luchadora madre soltera que trabaja en un elegante hotel de Manhattan, y sueña con una mejor vida, tanto para ella como para su hijo. Un profético día se cruza con el candidato a senador, C. Marshall, quien la confunde con una adinerada dama de la alta sociedad. Luego de una encantadora tarde, se enamoran perdidamente, pero la verdadera realidad de Marisa, amenaza todo(n)</desc>
     <credits>
-      <actor>Lisa Kudrow</actor>
-      <actor>Courteney Cox</actor>
-      <actor>Jennifer Aniston</actor>
-      <actor>Matthew Perry</actor>
-      <actor>David Schwimmer</actor>
-      <actor>Matt LeBlanc</actor>
+      <actor>Jennifer Lopez</actor>
+      <actor>Stanley Tucci</actor>
+      <actor>Wayne Wang</actor>
+      <actor>Ralph Fiennes</actor>
     </credits>
-    <category lang="es">Series</category>
+    <category lang="es">Pelicula</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20160104112500 -0600" stop="20160104115000 -0600" channel="WARNER HD">
+  <programme start="20160104110000 -0600" stop="20160104115000 -0600" channel="WARNER HD">
     <title lang="es">Friends</title>
-    <sub-title lang="es">The One with Joey's Fridge</sub-title>
+    <sub-title lang="es">The One Where Ross Dates a Student</sub-title>
     <desc lang="es">Ross, Rachel, Mónica, Chandler, Joey y Phoebe forman un grupo de seis amigos que luchan por salir adelante en la competitiva y poblada ciudad de New York. Su picante humor e incondicional apoyo hacen que su amistad sea cada vez más fuerte, superando todos los obstáculos. Trabajo, familia, responsabilidad, dinero, sexo, compromiso y amor son algunos de los temas que preocupan y a la vez disfrutan estos personajes(n)</desc>
     <credits>
       <actor>Lisa Kudrow</actor>
@@ -7360,7 +7342,7 @@
     <category lang="es">Series</category>
     <category lang="es">C.Ficción</category>
   </programme>
-  <programme start="20160104095000 -0600" stop="20160104110500 -0600" channel="FX HD">
+  <programme start="20160104095000 -0600" stop="20160104104500 -0600" channel="FX HD">
     <title lang="es">Jo</title>
     <sub-title lang="es">Placedela Concorde</sub-title>
     <desc lang="es">Jean Reno es Jo St-Clair, un detective veterano que forma parte de la Brigada Criminal de elite de París, y debe enfrentar los casos de homicidio más misteriosos y desafiantes. "Jo" lleva al espectador a sumergirse en el detrás de escena de París, sus lugares icónicos y los rincones más oscuros de la mano de Jo St-Clair en su incansable búsqueda de justicia. Tan brillante como brutal, el ingenioso detective resolverá una serie de estremecedores asesinatos. St-Clair está acompañado por el detective Bayard, joven y atractivo, cuyo método teórico de manual contrasta con el estilo sagaz del veterano. Ambos, son supervisados por Dormont, un jefe exigente y obstinado que comparte una larga y tumultuosa historia con St-Clair. Completa el equipo la aguda y directa Angelique Alassane y el experto y(n)</desc>
@@ -7373,23 +7355,21 @@
     <category lang="es">Series</category>
     <category lang="es">Thriller</category>
   </programme>
-  <programme start="20160104110500 -0600" stop="20160104113000 -0600" channel="FX HD">
-    <title lang="es">American Dad: Un agente de familia</title>
-    <sub-title lang="es">When a Stan Loves a Woman</sub-title>
-    <desc lang="es">Staniel Smith es un padre de familia y un clásico republicano, conservador, racista y patriótico americano que trabaja para la CIA. Conoce su vida y la de su peculiar familia, un nerd, una hippie, su sarcástica esposa, un extraterrestre y un pez con cerebro(n)</desc>
+  <programme start="20160104104500 -0600" stop="20160104110500 -0600" channel="FX HD">
+    <title lang="es">Bob's burgers</title>
+    <sub-title lang="es">Lobster Fest</sub-title>
+    <desc lang="es">Serie animada que sigue la vida del propietario de un restaurant, Bob, quien dirige "Bobs Burgers" con la ayuda de su esposa y sus tres hijos. Bob y su familia, tan extravagante como particular, tienen grandes expectativas e ideas sobre hamburguesas, pero carecen de buen servicio y sofisticación. A pesar de los mostradores grasientos, una ubicación pésima y la escasez de clientes, Bob y su familia tienen la determinación de hacer de "Bobs Burgers" un éxito(n)</desc>
     <credits>
-      <actor>Seth MacFarlane</actor>
-      <actor>Wendy Schaal</actor>
-      <actor>Dee Bradley Baker</actor>
-      <actor>Scott Grimes</actor>
-      <actor>Rachael MacFarlane</actor>
+      <actor>Eugene Mirman</actor>
+      <actor>Dan Mintz</actor>
+      <actor>Jon Benjamin</actor>
     </credits>
     <category lang="es">Series</category>
-    <category lang="es">Animación</category>
+    <category lang="es">D.Animados</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104115500 -0600" channel="FX HD">
+  <programme start="20160104110500 -0600" stop="20160104115500 -0600" channel="FX HD">
     <title lang="es">American Dad: Un agente de familia</title>
-    <sub-title lang="es">I Can't Stan You</sub-title>
+    <sub-title lang="es">When a Stan Loves a Woman</sub-title>
     <desc lang="es">Staniel Smith es un padre de familia y un clásico republicano, conservador, racista y patriótico americano que trabaja para la CIA. Conoce su vida y la de su peculiar familia, un nerd, una hippie, su sarcástica esposa, un extraterrestre y un pez con cerebro(n)</desc>
     <credits>
       <actor>Seth MacFarlane</actor>
@@ -8426,23 +8406,27 @@
     <category lang="es">Series</category>
     <category lang="es">Policial</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="A&amp;E HD">
+  <programme start="20160104090000 -0600" stop="20160104100000 -0600" channel="A&amp;E HD">
     <title lang="es">Infomercial</title>
-    <sub-title lang="es">Payaseando en Utah</sub-title>
     <desc lang="es">Los productos más novedosos que han ingresado al mercado para ayudar en las diversas tareas del hogar, oficina y taller(n)</desc>
     <category lang="es">Venta y Publicidad</category>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="A&amp;E HD">
-    <title lang="es">Transporte salvaje</title>
-    <sub-title lang="es">¡Cuidado con el camello</sub-title>
-    <desc lang="es">Rick Deridder y Andrew Biddle salen a la ruta con singulares cargamentos potencialmente mortales. Desde anacondas hasta zebroides, transportan grandes mamíferos, reptiles y aves rapaces de todo tipo. En cada episodio, Rick y Andrew se enfrentan al desafío y el riesgo de concretar el transporte seguro de dos criaturas hasta su destino. Cada viaje es una aventura de alto riesgo(n)</desc>
+  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="A&amp;E HD">
+    <title lang="es">Barter Kings</title>
+    <sub-title lang="es">Payaseando en Utah</sub-title>
+    <desc lang="es">Antonio Palazzola y Steve McHugh mostrarán el poder y el beneficio del intercambio, pues ellos hacen negocios basados en intercambio entre objetos de nulo valor por barcos, diamantes y opulentas pertenencias(n)</desc>
+    <credits>
+      <actor>Steve McHugh</actor>
+      <actor>Antonio Palazzola</actor>
+      <actor>Kendall-Leigh Neuner</actor>
+    </credits>
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="A&amp;E HD">
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="A&amp;E HD">
     <title lang="es">Transporte salvaje</title>
-    <sub-title lang="es">Monos locos</sub-title>
+    <sub-title lang="es">¡Cuidado con el camello</sub-title>
     <desc lang="es">Rick Deridder y Andrew Biddle salen a la ruta con singulares cargamentos potencialmente mortales. Desde anacondas hasta zebroides, transportan grandes mamíferos, reptiles y aves rapaces de todo tipo. En cada episodio, Rick y Andrew se enfrentan al desafío y el riesgo de concretar el transporte seguro de dos criaturas hasta su destino. Cada viaje es una aventura de alto riesgo(n)</desc>
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
@@ -10472,32 +10456,32 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104101300 -0600" stop="20160104105400 -0600" channel="DISCOVERY KIDS">
+  <programme start="20160104101300 -0600" stop="20160104102800 -0600" channel="DISCOVERY KIDS">
     <title lang="es">Peg + Cat</title>
     <sub-title lang="es">El problema de la criatura espacial</sub-title>
     <desc lang="es">Estos simpáticos e inquietos amigos se ven envueltos en los más complejos problemas que pueden parecer simples ejercicios de conocimiento, pero para ellos son situaciones de la vida real; desopilantes y divertidos problemas que deben resolver para salir del inconveniente en el que se han metido. En cada episodio, Peg + Cat deben superar todo tipo de obstáculos antes de que sea demasiado tarde: desde traer de regreso cien pollos que se han escapado de un gallinero o reubicar todos los planetas y lunas en el sistema solar de menor a mayor, hasta alimentar a seis irritables piratas con solo una ensalada de frutas, de algún modo, ellos siempre encuentran la forma de resolver cada problema y salir triunfantes(n)</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20160104105400 -0600" stop="20160104112000 -0600" channel="DISCOVERY KIDS">
-    <title lang="es">Peppa Pig</title>
-    <sub-title lang="es">Patatolandia</sub-title>
-    <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa!(n)</desc>
-    <credits>
-      <actor>Neville Astley</actor>
-      <actor>Morwenna Banks</actor>
-    </credits>
-    <category lang="es">Infantiles</category>
-    <category lang="es">Animación</category>
-  </programme>
-  <programme start="20160104112000 -0600" stop="20160104114600 -0600" channel="DISCOVERY KIDS">
+  <programme start="20160104102800 -0600" stop="20160104105400 -0600" channel="DISCOVERY KIDS">
     <title lang="es">Jorge el curioso</title>
-    <sub-title lang="es">Jorge el curioso vuela un papalote / El misterio de los rasguños</sub-title>
+    <sub-title lang="es">Jorge el ingeniero de juguetes / El plan de juego de Jorge y Allie</sub-title>
     <desc lang="es">George es un simpático mono lleno de curiosidad que lo llevará a explorar el mundo que lo rodea, por ello vivirá aventuras extraordinarias aunque se meta en problemas, pero logrará salir airoso gracias a sus amigos y su inteligencia(n)</desc>
     <credits>
       <actor>Frank Welker</actor>
       <actor>Rino Romano</actor>
       <actor>Jeff Bennett</actor>
       <actor>Jim Cummings</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160104105400 -0600" stop="20160104114600 -0600" channel="DISCOVERY KIDS">
+    <title lang="es">Peppa Pig</title>
+    <sub-title lang="es">Patatolandia</sub-title>
+    <desc lang="es">Peppa es una cerdita que vive con su hermanito George, su mamá y su papá. A Peppa le encanta jugar y saltar en los charcos de lodo. ¡Sus aventuras siempre terminan bien y con ronquidos de risa!(n)</desc>
+    <credits>
+      <actor>Neville Astley</actor>
+      <actor>Morwenna Banks</actor>
     </credits>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
@@ -12419,7 +12403,7 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104103000 -0600" stop="20160104110000 -0600" channel="CBEEBIES">
+  <programme start="20160104103000 -0600" stop="20160104104500 -0600" channel="CBEEBIES">
     <title lang="es">Los Numtums</title>
     <desc lang="es">Conozcan a Los Numtums, ¡unos peludos muy divertidos! Únanse a nuestra animosa pandilla mientras nos llevan alegremente a animadas aventuras en el pequeño pero perfecto mundo de Gumnut Gorge. Al centro de cada historia, hay un problema o rompecabezas que nuestra unida comunidad resuelve con su fascinación a los números y la ayuda de su héroe de comic favorito, ¡Super Numtum! Ya sea pasando el tiempo en Tasty Termite, montando un espectáculo en el teatro Platypus o siguiendo las aventuras de Super Numtum en su casa-club secreta, el caos siempre llega ¡y las soluciones creativas están en los números, las formas, las secuencias y mucha comedia! A través de una narración desenfadada, Los Numtums aplica habilidades matemáticas básicas a situaciones de la vida real e inculcará el amor a los núme(n)</desc>
     <credits>
@@ -12428,19 +12412,22 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="CBEEBIES">
+  <programme start="20160104104500 -0600" stop="20160104110000 -0600" channel="CBEEBIES">
+    <title lang="es">Los Numtums</title>
+    <desc lang="es">Conozcan a Los Numtums, ¡unos peludos muy divertidos! Únanse a nuestra animosa pandilla mientras nos llevan alegremente a animadas aventuras en el pequeño pero perfecto mundo de Gumnut Gorge. Al centro de cada historia, hay un problema o rompecabezas que nuestra unida comunidad resuelve con su fascinación a los números y la ayuda de su héroe de comic favorito, ¡Super Numtum! Ya sea pasando el tiempo en Tasty Termite, montando un espectáculo en el teatro Platypus o siguiendo las aventuras de Super Numtum en su casa-club secreta, el caos siempre llega ¡y las soluciones creativas están en los números, las formas, las secuencias y mucha comedia! A través de una narración desenfadada, Los Numtums aplica habilidades matemáticas básicas a situaciones de la vida real e inculcará el amor a los núme(n)</desc>
+    <credits>
+      <actor>Steve Smith</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160104110000 -0600" stop="20160104114500 -0600" channel="CBEEBIES">
     <title lang="es">El jardín del señor Bloom</title>
     <desc lang="es">¡El espectáculo colorido que garantiza que los niños en edad preescolar adorarán las verduras! Combinando acción en vivo con títeres, esta encantadora serie para niños de 2 a 4 años muestra cómo los pequeños pueden aprender importantes lecciones de vida a partir de la experiencia de cultivar plantas y verduras. Con un fondo de música original y muy pegajosa, en cada episodio nuestros jóvenes ayudantes son recibidos en el jardín del señor Bloom para ayudarlo a cuidar sus plantas y productos(n)</desc>
     <credits>
       <actor>Ben Faulks</actor>
     </credits>
     <category lang="es">Variedades</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104114500 -0600" channel="CBEEBIES">
-    <title lang="es">Boj</title>
-    <desc lang="es">Boj es un niño de cinco años y espíritu libre, muy creativo, desordenado y muy divertido. Desde que apareció como el chico recién llegado a Giggly Park, Boj ha hecho unos cuantos nuevos amigos. A todos les encanta su entusiasmo por la vida y su espíritu aventurero. Y Boj, por supuesto, adora su nuevo vecindario. Siempre hay algo por descubrir o un problema por resolver y para ello debe utilizar su muy particular y muy novedosa forma de ver y entender el mundo(n)</desc>
-    <category lang="es">Infantiles</category>
-    <category lang="es">Animación</category>
   </programme>
   <programme start="20160104114500 -0600" stop="20160104120000 -0600" channel="CBEEBIES">
     <title lang="es">Boj</title>
@@ -14743,7 +14730,7 @@
     <category lang="es">Series</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="DISNEY CHANNEL">
+  <programme start="20160104090000 -0600" stop="20160104093000 -0600" channel="DISNEY CHANNEL">
     <title lang="es">Phineas y Ferb</title>
     <desc lang="es">Como cualquier niño, Phineas y Ferb aman sus vacaciones de verano, por ello disfrutarán cada día antes de que estas terminen viviendo grandes aventuras. Candance, su hermana mayor, tratará de acusarlos con su mamá, ¿lo logrará o terminará uniéndose a las aventuras de este fabuloso par?(n)</desc>
     <credits>
@@ -14755,7 +14742,13 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="DISNEY CHANNEL">
+  <programme start="20160104093000 -0600" stop="20160104110000 -0600" channel="DISNEY CHANNEL">
+    <title lang="es">Tarzan &amp; Jane</title>
+    <desc lang="es">Al acercarse el primer aniversario de bodas de Tarzán y Jane, esta busca por toda la jungla el regalo perfecto para su esposo, contando con la ayuda de los comiquísimos Tork y Tantor. A medida que recuerdan las numerosas aventuras que han compartido, Jane descubre que ha sido un año de lo mas emocionante. Mas acción, suspenso y aventuras en esta nueva aventura de Tarzán!(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="DISNEY CHANNEL">
     <title lang="es">Phineas y Ferb</title>
     <desc lang="es">Como cualquier niño, Phineas y Ferb aman sus vacaciones de verano, por ello disfrutarán cada día antes de que estas terminen viviendo grandes aventuras. Candance, su hermana mayor, tratará de acusarlos con su mamá, ¿lo logrará o terminará uniéndose a las aventuras de este fabuloso par?(n)</desc>
     <credits>
@@ -14764,12 +14757,6 @@
       <actor>Ashley Tisdale</actor>
       <actor>Dee Bradley Baker</actor>
     </credits>
-    <category lang="es">Infantiles</category>
-    <category lang="es">Animación</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="DISNEY CHANNEL">
-    <title lang="es">Heidi</title>
-    <desc lang="es">Una de las series animadas que ha cautivado a más generaciones, donde se cuenta la historia de una niña huérfana que llega a los Alpes para vivir con su abuelito, un hombre ermitaño que cambia gracias a la presencia de la encantadora niña, y luego son separados cuando se la llevan para que le haga compañía a Clarita, una niña paralítica(n)</desc>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
@@ -16007,7 +15994,7 @@
     <category lang="es">Series</category>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="DISNEY JUNIOR">
+  <programme start="20160104100000 -0600" stop="20160104103000 -0600" channel="DISNEY JUNIOR">
     <title lang="es">Princesita Sofía</title>
     <desc lang="es">Princesita Sofía está ambientada en el mundo de cuento de hadas de la pequeña Sofía, quien comienza su vida como una niña común. Pero cuando su mamá, Miranda, se casa con el Rey Roland II, ella rápidamente pasa a un glamoroso –aunque a veces confuso- mundo de castillos y realeza, pompa y nuevos hermanastros: Amber y James(n)</desc>
     <credits>
@@ -16019,7 +16006,19 @@
     <category lang="es">Series</category>
     <category lang="es">Infantil</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="DISNEY JUNIOR">
+  <programme start="20160104103000 -0600" stop="20160104110000 -0600" channel="DISNEY JUNIOR">
+    <title lang="es">Princesita Sofía</title>
+    <desc lang="es">Princesita Sofía está ambientada en el mundo de cuento de hadas de la pequeña Sofía, quien comienza su vida como una niña común. Pero cuando su mamá, Miranda, se casa con el Rey Roland II, ella rápidamente pasa a un glamoroso –aunque a veces confuso- mundo de castillos y realeza, pompa y nuevos hermanastros: Amber y James(n)</desc>
+    <credits>
+      <actor>Jim Cummings</actor>
+      <actor>Jamie Mitchell</actor>
+      <actor>Sara Ramirez</actor>
+      <actor>Ariel Winter</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Infantil</category>
+  </programme>
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="DISNEY JUNIOR">
     <title lang="es">La casa de Mickey Mouse</title>
     <desc lang="es">Diviértete con Mickey, el Pato Donald, Daisy, Goofy, Pluto y Minnie con sus aventuras adivinando acertijos y resolviendo los problemas que se presentan en la vida de este grupo de amigos(n)</desc>
     <credits>
@@ -16028,20 +16027,6 @@
       <actor>Wayne Allwine</actor>
       <actor>Tress MacNeille</actor>
       <actor>Russi Taylor</actor>
-    </credits>
-    <category lang="es">Infantiles</category>
-    <category lang="es">Animación</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="DISNEY JUNIOR">
-    <title lang="es">Doctora Juguetes</title>
-    <desc lang="es">Dottie, una dulce niña de seis años, tiene un par de habilidades especiales pues habla con sus juguetes y puede curarles. Ahora ella ayudará y reparará los desperfectos que ellos tengan convirtiéndose en "La Doctora Juguetes"(n)</desc>
-    <credits>
-      <actor>Robbie Rist</actor>
-      <actor>Kiara Muhammad</actor>
-      <actor>Lara Jill Miller</actor>
-      <actor>Jess Harnell</actor>
-      <actor>Loretta Devine</actor>
-      <actor>Jaydon Betts</actor>
     </credits>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
@@ -17472,7 +17457,7 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104103000 -0600" stop="20160104110000 -0600" channel="DISNEY XD">
+  <programme start="20160104103000 -0600" stop="20160104104500 -0600" channel="DISNEY XD">
     <title lang="es">Wander Over Yonder</title>
     <desc lang="es">Wander es un viajero intergaláctico que intenta ayudar a las personas que encuentra, aunque eso signifique meterse en problemas. Pero el héroe no está solo, sino que cuenta con la companía de la yegua parlante Sylvia(n)</desc>
     <credits>
@@ -17483,12 +17468,18 @@
     <category lang="es">Series</category>
     <category lang="es">Animación</category>
   </programme>
+  <programme start="20160104104500 -0600" stop="20160104110000 -0600" channel="DISNEY XD">
+    <title lang="es">Boyster</title>
+    <desc lang="es">Mitad ostra, mitad humano, Boyster es diferente a los otros chicos. ¿Qué niño puede entender el canto de las ballenas, posee un caparazón parlante y puede hacer perlas tan solo comiendo tiza? Boyster sueña solo con una cosa: vivir una vida feliz como la de un niño normal de 11 años. Su único temor es que su secreto sea descubierto. ¿Cómo los otros podrán querer un molusco? ¿Está el mundo preparado para aceptar una criatura tan inusual?(n)</desc>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Animación</category>
+  </programme>
   <programme start="20160104110000 -0600" stop="20160104111500 -0600" channel="DISNEY XD">
     <title lang="es">Penn Zero: Part-Time Hero</title>
     <category lang="es">Series</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104111500 -0600" stop="20160104113000 -0600" channel="DISNEY XD">
+  <programme start="20160104111500 -0600" stop="20160104114500 -0600" channel="DISNEY XD">
     <title lang="es">Campamento Lakebottom</title>
     <desc lang="es">Campamento Lakebottom es una comedia animada acerca del campamento de verano más espeluznante del mundo. Las cabañas están poseídas, los supervisores parecen salidos de una película de terror… ¡y los niños se divierten muuuucho! Con estrafalarias situaciones, animales monstruosos salidos de la naturaleza y campistas tan fuera de serie que tendrán que asomarse a la ventana de un sexto piso para atarse sus propios zapatos, ¡Campamento Lakebottom será el paraíso de vacaciones más divertido y horroroso de la televisión! Los niños de Lakebottom sacan lo mejor de una situación muy extraña. Túneles secretos los conducen dentro y fuera. Pero hay reservas de bocadillos y bebidas escondidas por todas partes. Los niños se dan la gran vida… en tanto que el zombie director del campamento esté de su lad(n)</desc>
     <credits>
@@ -17496,18 +17487,6 @@
       <actor>Darren Frost</actor>
       <actor>Carter Hayden</actor>
       <actor>Eric Jacobson</actor>
-    </credits>
-    <category lang="es">Infantiles</category>
-    <category lang="es">Animación</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104114500 -0600" channel="DISNEY XD">
-    <title lang="es">Phineas y Ferb</title>
-    <desc lang="es">Como cualquier niño, Phineas y Ferb aman sus vacaciones de verano, por ello disfrutarán cada día antes de que estas terminen viviendo grandes aventuras. Candance, su hermana mayor, tratará de acusarlos con su mamá, ¿lo logrará o terminará uniéndose a las aventuras de este fabuloso par?(n)</desc>
-    <credits>
-      <actor>Vincent Martella</actor>
-      <actor>Thomas Sangster</actor>
-      <actor>Ashley Tisdale</actor>
-      <actor>Dee Bradley Baker</actor>
     </credits>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
@@ -18852,7 +18831,7 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Serie</category>
   </programme>
-  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="NICK HD">
+  <programme start="20160104100000 -0600" stop="20160104103000 -0600" channel="NICK HD">
     <title lang="es">Big Time Rush</title>
     <desc lang="es">Kendall, James, Carlos y Logan buscan ser la mejor boy band de la historia. Para lograrlo, deciden mudarse a California, donde se inician en el camino de la fama como “Big Time Rush”. Mientras crecen como cantantes y se preparan para la vida de fama y fortuna, los chicos no pueden evitar conservar el entusiasmo juvenil por la vida, organizando fiestas y gozando de la popularidad(n)</desc>
     <credits>
@@ -18864,7 +18843,19 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Serie</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="NICK HD">
+  <programme start="20160104103000 -0600" stop="20160104110000 -0600" channel="NICK HD">
+    <title lang="es">Big Time Rush</title>
+    <desc lang="es">Kendall, James, Carlos y Logan buscan ser la mejor boy band de la historia. Para lograrlo, deciden mudarse a California, donde se inician en el camino de la fama como “Big Time Rush”. Mientras crecen como cantantes y se preparan para la vida de fama y fortuna, los chicos no pueden evitar conservar el entusiasmo juvenil por la vida, organizando fiestas y gozando de la popularidad(n)</desc>
+    <credits>
+      <actor>Kendall Schmidt</actor>
+      <actor>Carlos PenaVega</actor>
+      <actor>James Maslow</actor>
+      <actor>Logan Henderson</actor>
+    </credits>
+    <category lang="es">Infantiles</category>
+    <category lang="es">Serie</category>
+  </programme>
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="NICK HD">
     <title lang="es">Bob Esponja</title>
     <desc lang="es">En la ciudad de Fondo de Bikini vive Bob Esponja, una esponja marina que vivirá aventuras y se meterá en lios con sus mejores amigos, Patricio Estrella y Arenita Mejillas. Pero su vida y acciones despreocupadas pondrán de nervios a Calamardo Tentáculos, su vecino(n)</desc>
     <credits>
@@ -18872,18 +18863,6 @@
       <actor>Bill Fagerbakke</actor>
       <actor>Rodger Bumpass</actor>
       <actor>Clancy Brown</actor>
-    </credits>
-    <category lang="es">Infantiles</category>
-    <category lang="es">Animación</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="NICK HD">
-    <title lang="es">Los pingüinos de Madagascar</title>
-    <desc lang="es">Sigue las aventuras de cuatro confundidos pingüinos: Skipper, Rico, Kowalski y Cabo, que realizan diversas misiones paramilitares en busca de proteger su hogar en el zoológico de Central Park(n)</desc>
-    <credits>
-      <actor>Tom Mcgrath</actor>
-      <actor>John DiMaggio</actor>
-      <actor>James Patrick Stuart</actor>
-      <actor>Jeff Bennett</actor>
     </credits>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
@@ -20495,25 +20474,17 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="NICK JR">
+  <programme start="20160104100000 -0600" stop="20160104103000 -0600" channel="NICK JR">
     <title lang="es">Blaze and the Monster Machines</title>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="NICK JR">
-    <title lang="es">Bubble Guppies</title>
-    <desc lang="es">Sumérgete y descubre algo nuevo cada día con los Bubble Guppies. Un show interactivo debajo del mar en el que los niños aprenden acerca de ciencia, matemáticas y literatura. Así que ponte tus aletas y sumérgete para aprender y reír con los Bubble Guppies(n)</desc>
-    <credits>
-      <actor>Zachary Gordon</actor>
-      <actor>Eamor Piruccello</actor>
-      <actor>Christopher Borger</actor>
-      <actor>Robert Scull</actor>
-      <actor>Jhonny Belt</actor>
-    </credits>
-    <category lang="es">Series</category>
+  <programme start="20160104103000 -0600" stop="20160104110000 -0600" channel="NICK JR">
+    <title lang="es">Blaze and the Monster Machines</title>
+    <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="NICK JR">
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="NICK JR">
     <title lang="es">Bubble Guppies</title>
     <desc lang="es">Sumérgete y descubre algo nuevo cada día con los Bubble Guppies. Un show interactivo debajo del mar en el que los niños aprenden acerca de ciencia, matemáticas y literatura. Así que ponte tus aletas y sumérgete para aprender y reír con los Bubble Guppies(n)</desc>
     <credits>
@@ -21810,7 +21781,7 @@
     <category lang="es">Series</category>
     <category lang="es">D.Animados</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="CARTOON NETWORK">
+  <programme start="20160104090000 -0600" stop="20160104100000 -0600" channel="CARTOON NETWORK">
     <title lang="es">El Increíble Mundo de Gumball</title>
     <desc lang="es">Acompaña a Gumball un gato algo torpe y a su peculiar familia en sus hilarantes aventuras. Sin olvidar a Darwin, un pez rojo, quien es el mejor amigo de la familia desde que le aparecieron piernas y pulmones(n)</desc>
     <credits>
@@ -21824,7 +21795,18 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="CARTOON NETWORK">
+  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="CARTOON NETWORK">
+    <title lang="es">Clarence</title>
+    <desc lang="es">Vive el mundo de la manera más increíble: ¡a través de los ojos de Clarence! El niño más optimista, encantador y adorable que ve lo mejor en todas las cosas y que quiere probar todo, ¡simplemente porque todo es genial! Pero no está solo, con la ayuda del alocado Sumo y el obsesivo Jeff, hará de cada día, ¡el día más espectacular!(n)</desc>
+    <credits>
+      <actor>Tom Kenny</actor>
+      <actor>Sean Giambrone</actor>
+      <actor>Skyler Page</actor>
+    </credits>
+    <category lang="es">Series</category>
+    <category lang="es">Animación</category>
+  </programme>
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="CARTOON NETWORK">
     <title lang="es">Hora de Aventura</title>
     <desc lang="es">Un chico llamado Finn y su mejor amigo Jake, un perro mágico que habla, se embarcan en una gran aventura en la mágica tierra de "Ooo". Nuestros héroes se encuentran en medio de incidentes estremecedores para salvar princesas, luchar contra el mal y explorar lugares desconocidos(n)</desc>
     <credits>
@@ -21835,18 +21817,6 @@
     </credits>
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
-  </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="CARTOON NETWORK">
-    <title lang="es">Haunted Tales</title>
-    <desc lang="es">Haunted Tales cuenta la historia de un niño de 11 años de edad llamado Pepe, que ayuda a su abuela haciendo entregas de pociones mágicas a través de Internet. En cada episodio, Pepe experimenta diversas aventuras enfrentando extraños monstruos, fantasmas, espíritus y todo tipo de criatura sobrenatural(n)</desc>
-    <credits>
-      <actor>Charles Emmanuel</actor>
-      <actor>Aline Gezzi</actor>
-      <actor>Iara Rica</actor>
-      <actor>Victor-Hugo Borges</actor>
-    </credits>
-    <category lang="es">Infantiles</category>
-    <category lang="es">Infantil</category>
   </programme>
   <programme start="20160104120000 -0600" stop="20160104121500 -0600" channel="CARTOON NETWORK">
     <title lang="es">Hora de Aventura</title>
@@ -23377,27 +23347,21 @@
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="HISTORY HD">
+  <programme start="20160104100000 -0600" stop="20160104103000 -0600" channel="HISTORY HD">
     <title lang="es">Lo mejor de "El precio de la historia"</title>
     <sub-title lang="es">Juego mayor</sub-title>
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="HISTORY HD">
-    <title lang="es">El precio de la historia</title>
-    <sub-title lang="es">Fiebre de amigo</sub-title>
-    <desc lang="es">Richard Harrison, su hijo y nieto administran Gold &amp; Silver Pawn Shop, una famosa tienda de empeño en Las Vegas, donde nunca se sabe qué tipo de objetos de valor histórico atravesarán sus puertas(n)</desc>
-    <credits>
-      <actor>Richard Harrison</actor>
-      <actor>Rick Harrison</actor>
-      <actor>Corey Harrison</actor>
-    </credits>
+  <programme start="20160104103000 -0600" stop="20160104110000 -0600" channel="HISTORY HD">
+    <title lang="es">Lo mejor de "El precio de la historia"</title>
+    <sub-title lang="es">Maniobras y negocios</sub-title>
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="HISTORY HD">
+  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="HISTORY HD">
     <title lang="es">El precio de la historia</title>
-    <sub-title lang="es">Un motín de rick</sub-title>
+    <sub-title lang="es">Fiebre de amigo</sub-title>
     <desc lang="es">Richard Harrison, su hijo y nieto administran Gold &amp; Silver Pawn Shop, una famosa tienda de empeño en Las Vegas, donde nunca se sabe qué tipo de objetos de valor histórico atravesarán sus puertas(n)</desc>
     <credits>
       <actor>Richard Harrison</actor>
@@ -24158,22 +24122,21 @@
     <category lang="es">Variedades</category>
     <category lang="es">Decoración</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104113000 -0600" channel="H&amp;H">
+  <programme start="20160104090000 -0600" stop="20160104100000 -0600" channel="H&amp;H">
     <title lang="es">¡Manos al hogar!</title>
     <sub-title lang="es">Escuela de diseño rock</sub-title>
     <desc lang="es">Esta serie está dedicada a ayudar a las familias a limpiar, organizar y embellecer sus hogares. Cada semana un grupo de expertos ayuda a una familia a desarrollar un proyecto de limpieza masiva y reorganización total(n)</desc>
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104120000 -0600" channel="H&amp;H">
-    <title lang="es">Cake Boss</title>
-    <sub-title lang="es">El huracán Sandy arrasa</sub-title>
-    <desc lang="es">Buddy Valastro es uno de los artistas de la pastelería más exitoso y renombrado de los Estados Unidos. "Cake Boss" sigue cada detalle de su trabajo como maestro pastelero de "Carlo's Bakery" en Nueva Jersey, así como de las relaciones interpersonales entre los diferentes miembros de su familia y otros empleados de la tienda(n)</desc>
+  <programme start="20160104100000 -0600" stop="20160104120000 -0600" channel="H&amp;H">
+    <title lang="es">Cake Boss: Next Great Baker</title>
+    <sub-title lang="es">¡A jugar</sub-title>
+    <desc lang="es">Durante esta competencia se podrán a prueba las habilidades de los concursantes en preparación y decoración de pasteles a través de una serie de retos que cada vez se tornan más difíciles. Cada uno deberá demostrar qué tan bueno es en el negocio y el arte de la pastelería. Un concursante se irá eliminado cada semana(n)</desc>
     <credits>
       <actor>Buddy Valastro</actor>
     </credits>
-    <category lang="es">Cocina, hogar y salud</category>
-    <category lang="es">Cocina</category>
+    <category lang="es">Reality Show</category>
   </programme>
   <programme start="20160104120000 -0600" stop="20160104130000 -0600" channel="H&amp;H">
     <title lang="es">Supersize vs. SuperSkinny</title>
@@ -24952,21 +24915,18 @@
     <category lang="es">Culturales</category>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="DISCOVERY CHANNEL">
+  <programme start="20160104090000 -0600" stop="20160104100000 -0600" channel="DISCOVERY CHANNEL">
     <title lang="es">Discovery en la escuela</title>
     <sub-title lang="es">La historia secreta de Roma / La Historia secreta de Egipto</sub-title>
     <desc lang="es">¿Qué es Discovery en la Escuela? Es programación de alta calidad especialmente diseñada para su uso en las aulas(n)</desc>
     <category lang="es">Documentales</category>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="DISCOVERY CHANNEL">
-    <title lang="es">A prueba de todo</title>
-    <sub-title lang="es">Los pantanos del Sur</sub-title>
-    <desc lang="es">A Prueba de todo, sigue al presentador Bear Grylls en un recorrido por los destinos salvajes más populares, lugares en donde los turistas podrían perderse o encontrarse en peligro. Una vez allí, Bear busca el camino de regreso a la civilización, mostrando a lo largo de toda su aventura importantes técnicas de supervivencia(n)</desc>
-    <credits>
-      <actor>Grylls Bear</actor>
-    </credits>
-    <category lang="es">Culturales</category>
+  <programme start="20160104100000 -0600" stop="20160104120000 -0600" channel="DISCOVERY CHANNEL">
+    <title lang="es">Cazador de gemas</title>
+    <sub-title lang="es">Riquezas del Himalaya</sub-title>
+    <desc lang="es">Entre en el mundo de Don Kogen, uno de los negociantes de gemas más importantes del mundo. Don vive en una carrera de altos riesgos para encontrar, comprar y vender piedras preciosas que pueden generarle millones de dólares(n)</desc>
+    <category lang="es">Documentales</category>
     <category lang="es">Documental</category>
   </programme>
   <programme start="20160104120000 -0600" stop="20160104130000 -0600" channel="DISCOVERY CHANNEL">
@@ -25626,16 +25586,17 @@
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20160104092400 -0600" stop="20160104110000 -0600" channel="DISCOVERY CIVILIZATION">
+  <programme start="20160104092400 -0600" stop="20160104101200 -0600" channel="DISCOVERY CIVILIZATION">
     <title lang="es">El escuadrón antibombas</title>
     <sub-title lang="es">Bienvenidos a Afganistán</sub-title>
     <desc lang="es">El trabajo más peligroso del mundo: quitar bombas de los caminos en Afganistán. Siga a los pelotones de limpieza de caminos militares en su misión de búsqueda y destrucción de aparatos explosivos improvisados, el arma más efectiva de los insurgentes. Basados en el sur de Afganistán, en la región de los talibanes, estos dos pelotones del ejército usan máquinas al estilo de Mad Max, que pueden ver debajo de la tierra y sobrevivir a explosiones masivas(n)</desc>
     <category lang="es">Culturales</category>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104114800 -0600" channel="DISCOVERY CIVILIZATION">
-    <title lang="es">Rituales de muerte</title>
-    <sub-title lang="es">Sed de sangre</sub-title>
+  <programme start="20160104101200 -0600" stop="20160104114800 -0600" channel="DISCOVERY CIVILIZATION">
+    <title lang="es">Mundos extremos</title>
+    <sub-title lang="es">La familia mormona</sub-title>
+    <desc lang="es">En varias ciudades de Latinoamérica se encuentran sociedades poco comunes como sectas, comunidades poligámicas, y nudistas, solo para citar algunas. Esta serie revela esos mundos extremos(n)</desc>
     <category lang="es">Documentales</category>
     <category lang="es">Documental</category>
   </programme>
@@ -26429,15 +26390,15 @@
     <desc lang="es">En el mundo de los autos clásicos, Dan es una mezcla de cirujano, enciclopedia andante y predicador evangelista. El sueño de Dan, que fue alguna vez un Boina Verde, era tener un taller de restauración de autos clásicos y dirigirlo con precisión militar. Así fue que creó Fantomworks, un lugar donde cada auto tiene su historia y el único parámetro aceptable es la perfección. Pero cuando todo lo que un auto necesita para ser perfecto está bajo un mismo techo, el resultado es una mezcla caótica de vehículos, personalidades y problemas que hace que a Dan se le caiga el poco cabello que le queda. Él y su esposa han invertido todo su dinero en el taller y están empezando a comprobar que la fórmula “calidad sin excepciones” es el camino más difícil hacia el éxito(n)</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20160104091200 -0600" stop="20160104110000 -0600" channel="DISCOVERY TURBO">
+  <programme start="20160104091200 -0600" stop="20160104100600 -0600" channel="DISCOVERY TURBO">
     <title lang="es">FantomWorks</title>
     <sub-title lang="es">Chevelle 1970 para discapacitados</sub-title>
     <desc lang="es">En el mundo de los autos clásicos, Dan es una mezcla de cirujano, enciclopedia andante y predicador evangelista. El sueño de Dan, que fue alguna vez un Boina Verde, era tener un taller de restauración de autos clásicos y dirigirlo con precisión militar. Así fue que creó Fantomworks, un lugar donde cada auto tiene su historia y el único parámetro aceptable es la perfección. Pero cuando todo lo que un auto necesita para ser perfecto está bajo un mismo techo, el resultado es una mezcla caótica de vehículos, personalidades y problemas que hace que a Dan se le caiga el poco cabello que le queda. Él y su esposa han invertido todo su dinero en el taller y están empezando a comprobar que la fórmula “calidad sin excepciones” es el camino más difícil hacia el éxito(n)</desc>
     <category lang="es">Variedades</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104115400 -0600" channel="DISCOVERY TURBO">
+  <programme start="20160104100600 -0600" stop="20160104115400 -0600" channel="DISCOVERY TURBO">
     <title lang="es">FantomWorks</title>
-    <sub-title lang="es">Escarabajo 1966 y Triumph tr6 1976</sub-title>
+    <sub-title lang="es">Mustang y camioneta studebaker 195</sub-title>
     <desc lang="es">En el mundo de los autos clásicos, Dan es una mezcla de cirujano, enciclopedia andante y predicador evangelista. El sueño de Dan, que fue alguna vez un Boina Verde, era tener un taller de restauración de autos clásicos y dirigirlo con precisión militar. Así fue que creó Fantomworks, un lugar donde cada auto tiene su historia y el único parámetro aceptable es la perfección. Pero cuando todo lo que un auto necesita para ser perfecto está bajo un mismo techo, el resultado es una mezcla caótica de vehículos, personalidades y problemas que hace que a Dan se le caiga el poco cabello que le queda. Él y su esposa han invertido todo su dinero en el taller y están empezando a comprobar que la fórmula “calidad sin excepciones” es el camino más difícil hacia el éxito(n)</desc>
     <category lang="es">Variedades</category>
   </programme>
@@ -27285,7 +27246,7 @@
     <category lang="es">Venta y Publicidad</category>
     <category lang="es">Publicidad</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="H2">
+  <programme start="20160104090000 -0600" stop="20160104100000 -0600" channel="H2">
     <title lang="es">En la piel del guerrero</title>
     <sub-title lang="es">Fuerzas especiales</sub-title>
     <desc lang="es">En la piel del guerrero te invita a recorrer el planeta para descubrir lo que se necesita para ser un guerrero. Presentado por Terry Schappert, un sargento del Ejército de los Estados Unidos, el programa sumerge en la cultura, las armas, las tácticas y la mente de los guerreros más famosos de todos los tiempos. Cada capítulo cuenta la dramática historia de los guerreros más icónicos del planeta - vikingos, aztecas, bárbaros - contando sus historias personales como vehículo para ahondar en una cultura guerrera en particular(n)</desc>
@@ -27295,10 +27256,11 @@
     <category lang="es">Culturales</category>
     <category lang="es">Serie</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="H2">
-    <title lang="es">How 2 Win</title>
-    <sub-title lang="es">El secreto del apretón de manos</sub-title>
-    <category lang="es">Variedades</category>
+  <programme start="20160104100000 -0600" stop="20160104120000 -0600" channel="H2">
+    <title lang="es">The Human Calculator</title>
+    <sub-title lang="es">Control mental</sub-title>
+    <category lang="es">Culturales</category>
+    <category lang="es">Serie</category>
   </programme>
   <programme start="20160104120000 -0600" stop="20160104130000 -0600" channel="H2">
     <title lang="es">Mega desastres</title>
@@ -27814,23 +27776,21 @@
     <category lang="es">Documentales</category>
     <category lang="es">Documental</category>
   </programme>
-  <programme start="20160104093000 -0600" stop="20160104110000 -0600" channel="NATGEO">
+  <programme start="20160104093000 -0600" stop="20160104100000 -0600" channel="NATGEO">
     <title lang="es">Crowd Control</title>
     <sub-title lang="es">Contra las reglas</sub-title>
     <desc lang="es">En doce episodios temáticos, el público será engañado para ser más rico, vivir más tiempo, comportarse mejor y reírse de lo lindo. Lo divertido de la serie es la reacción del desprevenido público, cuando los botes de basura les gritan, los tarros de galletas les dan electricidad y las cámaras les dan dinero. Por medio de innovaciones tecnológicas insólitas y celebridades invitadas sorpresa, la serie influye invisiblemente en las acciones de la gente, provocando enormes cambios en nuestro comportamiento(n)</desc>
     <category lang="es">Series</category>
     <category lang="es">Reality Show</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104113000 -0600" channel="NATGEO">
-    <title lang="es">Science of Stupid</title>
-    <desc lang="es">La serie combina datos y explicaciones científicas con algunos de los bloopers más descabellados, espectaculares y dolorosos de la historia(n)</desc>
-    <credits>
-      <actor>Alfonso Herrera</actor>
-    </credits>
-    <category lang="es">Series</category>
-    <category lang="es">Interés General</category>
+  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="NATGEO">
+    <title lang="es">Megastructures</title>
+    <sub-title lang="es">Las Vegas en Singapur</sub-title>
+    <desc lang="es">Las obras de construcción más impresionantes son analizadas bajo la lente de National Geographic Channel-(n)</desc>
+    <category lang="es">Documentales</category>
+    <category lang="es">Documental</category>
   </programme>
-  <programme start="20160104113000 -0600" stop="20160104115500 -0600" channel="NATGEO">
+  <programme start="20160104110000 -0600" stop="20160104115500 -0600" channel="NATGEO">
     <title lang="es">Science of Stupid</title>
     <desc lang="es">La serie combina datos y explicaciones científicas con algunos de los bloopers más descabellados, espectaculares y dolorosos de la historia(n)</desc>
     <credits>
@@ -29813,23 +29773,17 @@
     <category lang="es">Infantiles</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104080000 -0600" stop="20160104110400 -0600" channel="HBO Family Latinoamerica">
+  <programme start="20160104080000 -0600" stop="20160104093200 -0600" channel="HBO Family Latinoamerica">
     <title lang="es">Pinocho - Parte 1</title>
     <desc lang="es">Geppetto, un fabricante de juguetes, consigue un trozo de madera en la puerta de su casa y crea una marioneta a la cual llama Pinocchio. Un ser mágico le da vida a Pinocchio y comienza la gran aventura de este pequeño travieso y el cariñoso Geppetto(n)</desc>
     <category lang="es">Pelicula</category>
     <category lang="es">Animación</category>
   </programme>
-  <programme start="20160104110400 -0600" stop="20160104110400 -0600" channel="HBO Family Latinoamerica">
-    <title lang="es">Niña Americana: Isabelle Bailando Bajo El Reflector</title>
-    <desc lang="es">Isabelle tiene 9 años y acaba de comenzar clases en una prestigiosa escuela de ballet. Al comienzo se siente insegura al compararse con sus competitivas compañeras, pero deberá encontrar coraje para conseguir el rol que sueña interpretar(n)</desc>
+  <programme start="20160104093200 -0600" stop="20160104124600 -0600" channel="HBO Family Latinoamerica">
+    <title lang="es">Pinocho - Parte 2</title>
+    <desc lang="es">Geppetto, un fabricante de juguetes, consigue un trozo de madera en la puerta de su casa y crea una marioneta a la cual llama Pinocchio. Un ser mágico le da vida a Pinocchio y comienza la gran aventura de este pequeño travieso y el cariñoso Geppetto(n)</desc>
     <category lang="es">Pelicula</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20160104110400 -0600" stop="20160104124600 -0600" channel="HBO Family Latinoamerica">
-    <title lang="es">Niña Americana: Isabelle Bailando Bajo El Reflector</title>
-    <desc lang="es">Isabelle tiene 9 años y acaba de comenzar clases en una prestigiosa escuela de ballet. Al comienzo se siente insegura al compararse con sus competitivas compañeras, pero deberá encontrar coraje para conseguir el rol que sueña interpretar(n)</desc>
-    <category lang="es">Pelicula</category>
-    <category lang="es">Drama</category>
+    <category lang="es">Fantasía</category>
   </programme>
   <programme start="20160104124600 -0600" stop="20160104140800 -0600" channel="HBO Family Latinoamerica">
     <title lang="es">Sophia Grace Y Rosie: una aventura real</title>
@@ -30312,22 +30266,16 @@
     <category lang="es">Pelicula</category>
     <category lang="es">Comedia</category>
   </programme>
-  <programme start="20160104091000 -0600" stop="20160104112200 -0600" channel="HBO HD">
+  <programme start="20160104091000 -0600" stop="20160104094000 -0600" channel="HBO HD">
     <title lang="es">Dios Inc., Los Secretos Detrás De La Serie</title>
     <category lang="es">Series</category>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20160104112200 -0600" stop="20160104112200 -0600" channel="HBO HD">
-    <title lang="es">Hacker, amenaza en la red</title>
-    <desc lang="es">Alguien ha violado el sistema de una base nuclear china y ha causado daños graves. Agentes chinos y estadounidenses tendrán que unirse para evitar otro golpe. Para ello necesitarán las habilidades de Nick Hathaway, un hacker que está en prisión(n)</desc>
+  <programme start="20160104094000 -0600" stop="20160104134000 -0600" channel="HBO HD">
+    <title lang="es">Maléfica</title>
+    <desc lang="es">Maléfica es un hada que vive en un reino donde evitan cualquier contacto con el mundo de los hombres. Pero el hada entrega su confianza a un humano y es víctima de una traición que endurece su corazón. Ahora Maléfica solo tiene un deseo: vengarse(n)</desc>
     <category lang="es">Pelicula</category>
-    <category lang="es">Acción</category>
-  </programme>
-  <programme start="20160104112200 -0600" stop="20160104134000 -0600" channel="HBO HD">
-    <title lang="es">Hacker, amenaza en la red</title>
-    <desc lang="es">Alguien ha violado el sistema de una base nuclear china y ha causado daños graves. Agentes chinos y estadounidenses tendrán que unirse para evitar otro golpe. Para ello necesitarán las habilidades de Nick Hathaway, un hacker que está en prisión(n)</desc>
-    <category lang="es">Pelicula</category>
-    <category lang="es">Acción</category>
+    <category lang="es">Fantasía</category>
   </programme>
   <programme start="20160104134000 -0600" stop="20160104155500 -0600" channel="HBO HD">
     <title lang="es">La búsqueda del Rey Arturo</title>
@@ -31552,7 +31500,7 @@
     <category lang="es">Pelicula</category>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20160104072500 -0600" stop="20160104110500 -0600" channel="HBO Signature Latinoamerica">
+  <programme start="20160104072500 -0600" stop="20160104093000 -0600" channel="HBO Signature Latinoamerica">
     <title lang="es">Sin límites</title>
     <desc lang="es">Steve Prefontaine, el legendario corredor de pista conocido como "Pre", quien batió récord entre los 2.000 y 10.000 metros, era el favorito para alzarse en los Juegos Olímpicos del 76. Pero un trágico accidente le arrebató la vida un año antes(n)</desc>
     <credits>
@@ -31564,26 +31512,14 @@
     <category lang="es">Pelicula</category>
     <category lang="es">Drama</category>
   </programme>
-  <programme start="20160104110500 -0600" stop="20160104110500 -0600" channel="HBO Signature Latinoamerica">
-    <title lang="es">Entierra Mi Corazón En Wounded Knee</title>
-    <desc lang="es">Una película basada en el libro de Dee Brown y nominada a 17 premios Emmy, en la que tenemos la oportunidad de seguir la historia de los nativos americanos de las Dakotas en Little Big Horn y Wounded Knee. La trama sigue la secuencia de los 14 años desde la guerra con el estúpido ataque del general Custer hasta el levantamiento en Wounded Knee(n)</desc>
+  <programme start="20160104093000 -0600" stop="20160104132200 -0600" channel="HBO Signature Latinoamerica">
+    <title lang="es">Belleza Negra</title>
+    <desc lang="es">Un espléndido caballo, acaba de nacer en un establo del corazón de Inglaterra. A partir de entonces, y a lo largo de las dos décadas siguientes, el pequeño caballo vivirá emocionantes aventuras(n)</desc>
     <credits>
-      <actor>J. K. Simmons</actor>
-      <actor>Aidan Quinn</actor>
-      <actor>Yves Simoneau</actor>
-      <actor>Wes Studi</actor>
-    </credits>
-    <category lang="es">Pelicula</category>
-    <category lang="es">Drama</category>
-  </programme>
-  <programme start="20160104110500 -0600" stop="20160104132200 -0600" channel="HBO Signature Latinoamerica">
-    <title lang="es">Entierra Mi Corazón En Wounded Knee</title>
-    <desc lang="es">Una película basada en el libro de Dee Brown y nominada a 17 premios Emmy, en la que tenemos la oportunidad de seguir la historia de los nativos americanos de las Dakotas en Little Big Horn y Wounded Knee. La trama sigue la secuencia de los 14 años desde la guerra con el estúpido ataque del general Custer hasta el levantamiento en Wounded Knee(n)</desc>
-    <credits>
-      <actor>J. K. Simmons</actor>
-      <actor>Aidan Quinn</actor>
-      <actor>Yves Simoneau</actor>
-      <actor>Wes Studi</actor>
+      <actor>Jim Carter</actor>
+      <actor>Sean Bean</actor>
+      <actor>Alun Armstrong</actor>
+      <actor>Caroline Thompson</actor>
     </credits>
     <category lang="es">Pelicula</category>
     <category lang="es">Drama</category>
@@ -32727,19 +32663,13 @@
     <category lang="es">Deportes</category>
     <category lang="es">Football Americano</category>
   </programme>
-  <programme start="20160104080000 -0600" stop="20160104110000 -0600" channel="NFL NETWORK">
+  <programme start="20160104080000 -0600" stop="20160104090000 -0600" channel="NFL NETWORK">
     <title lang="es">NFL Gameday Final</title>
     <desc lang="es">Los 90 minutos en torno a mostrar características, ampliando noticias de todos los partidos de la jornada. El comentario de información privilegiada, las entrevistas en el campo, y el juego post-conferencias de prensa(n)</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Football Americano</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104110000 -0600" channel="NFL NETWORK">
-    <title lang="es">NFL</title>
-    <desc lang="es">Fox Sports te vuelve ha traer toda la emoción de la NFL. Este año el camino no será fácil porque van haber varios equipos con aspiraciones de campeonato, y en esta liga cualquier equipo puede ser campeón. No se pierdan un momento de la acción solo por Fox Sports(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Football Americano</category>
-  </programme>
-  <programme start="20160104110000 -0600" stop="20160104130000 -0600" channel="NFL NETWORK">
+  <programme start="20160104090000 -0600" stop="20160104130000 -0600" channel="NFL NETWORK">
     <title lang="es">NFL</title>
     <desc lang="es">Fox Sports te vuelve ha traer toda la emoción de la NFL. Este año el camino no será fácil porque van haber varios equipos con aspiraciones de campeonato, y en esta liga cualquier equipo puede ser campeón. No se pierdan un momento de la acción solo por Fox Sports(n)</desc>
     <category lang="es">Deportes</category>
@@ -33058,21 +32988,18 @@
     <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20160104080000 -0600" stop="20160104110000 -0600" channel="ESPN HD">
+  <programme start="20160104080000 -0600" stop="20160104100000 -0600" channel="ESPN HD">
     <title lang="es">Toque inicial</title>
     <desc lang="es">El programa presentará las noticias deportivas más relevantes de una forma relajada y con el humor y personalidad que destacan a los conductores del programa. Contará con diversos segmentos, presentando el lado humorístico de las noticias con un toque de sarcasmo, parodia e ironía(n)</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Deportivo</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104110000 -0600" channel="ESPN HD">
-    <title lang="es">Toque inicial</title>
-    <desc lang="es">El programa presentará las noticias deportivas más relevantes de una forma relajada y con el humor y personalidad que destacan a los conductores del programa. Contará con diversos segmentos, presentando el lado humorístico de las noticias con un toque de sarcasmo, parodia e ironía(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Deportivo</category>
-  </programme>
-  <programme start="20160104110000 -0600" stop="20160104130000 -0600" channel="ESPN HD">
-    <title lang="es">Toque inicial</title>
-    <desc lang="es">El programa presentará las noticias deportivas más relevantes de una forma relajada y con el humor y personalidad que destacan a los conductores del programa. Contará con diversos segmentos, presentando el lado humorístico de las noticias con un toque de sarcasmo, parodia e ironía(n)</desc>
+  <programme start="20160104100000 -0600" stop="20160104130000 -0600" channel="ESPN HD">
+    <title lang="es">Simplemente fútbol</title>
+    <desc lang="es">El programa creado y conducido por Quique Wolff, que homenajea al fútbol y su belleza, con visitas destacadas y un toque musical(n)</desc>
+    <credits>
+      <actor>Enrique Wolff</actor>
+    </credits>
     <category lang="es">Deportes</category>
     <category lang="es">Deportivo</category>
   </programme>
@@ -33488,25 +33415,18 @@
     <category lang="es">Noticias</category>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20160104080000 -0600" stop="20160104110000 -0600" channel="ESPN 2 HD">
+  <programme start="20160104080000 -0600" stop="20160104093000 -0600" channel="ESPN 2 HD">
     <title lang="es">Sportscenter</title>
     <desc lang="es">SportsCenter es el mejor y más completo noticiario de la televisión. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional(n)</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104110000 -0600" channel="ESPN 2 HD">
-    <title lang="es">NFL Football</title>
+  <programme start="20160104093000 -0600" stop="20160104130000 -0600" channel="ESPN 2 HD">
+    <title lang="es">Sportscenter</title>
     <sub-title lang="es">Minnesota Vikings vs Green Bay Packers</sub-title>
-    <desc lang="es">La mayor liga de fútbol americano profesional de los Estados Unidos. Se divide en dos conferencias: la NFC y la AFC. A su vez cada conferencia se integra por cuatro divisiones (Norte, Sur, Este y Oeste) y cada una de ellas, por cuatro equipos. Luego de la temporada regular, seis equipos de cada conferencia disputan los playoffs, un sistema de eliminación a un partido que clasificará a los ganadores de cada conferencia para disputar el partido por el campeonato, conocido como Super Bowl(n)</desc>
+    <desc lang="es">SportsCenter es el mejor y más completo noticiario de la televisión. Ofrece noticias, análisis y comentarios con profundidad del deporte internacional(n)</desc>
     <category lang="es">Deportes</category>
-    <category lang="es">Football Americano</category>
-  </programme>
-  <programme start="20160104110000 -0600" stop="20160104130000 -0600" channel="ESPN 2 HD">
-    <title lang="es">NFL Football</title>
-    <sub-title lang="es">Minnesota Vikings vs Green Bay Packers</sub-title>
-    <desc lang="es">La mayor liga de fútbol americano profesional de los Estados Unidos. Se divide en dos conferencias: la NFC y la AFC. A su vez cada conferencia se integra por cuatro divisiones (Norte, Sur, Este y Oeste) y cada una de ellas, por cuatro equipos. Luego de la temporada regular, seis equipos de cada conferencia disputan los playoffs, un sistema de eliminación a un partido que clasificará a los ganadores de cada conferencia para disputar el partido por el campeonato, conocido como Super Bowl(n)</desc>
-    <category lang="es">Deportes</category>
-    <category lang="es">Football Americano</category>
+    <category lang="es">Noticiero</category>
   </programme>
   <programme start="20160104130000 -0600" stop="20160104140000 -0600" channel="ESPN 2 HD">
     <title lang="es">Fútbol Picante</title>
@@ -34036,21 +33956,15 @@
     <category lang="es">Deportes</category>
     <category lang="es">Noticiero</category>
   </programme>
-  <programme start="20160104100000 -0600" stop="20160104110000 -0600" channel="ESPN 3 HD">
+  <programme start="20160104100000 -0600" stop="20160104103000 -0600" channel="ESPN 3 HD">
     <title lang="es">ESPN W</title>
     <desc lang="es">ESPN W(n)</desc>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="ESPN 3 HD">
-    <title lang="es">Redes</title>
-    <desc lang="es">Chino Darín, Juan Ignacio Chela, Muni Seligmann y Juan Marconi te invitan a que conectes tu mundo con ESPN Redes y seas protagonista del programa que hace eje en las redes sociales(n)</desc>
-    <credits>
-      <actor>Juan Ignacio Chela</actor>
-      <actor>Juan Marconi</actor>
-      <actor>Muni Seligmann</actor>
-    </credits>
+  <programme start="20160104103000 -0600" stop="20160104120000 -0600" channel="ESPN 3 HD">
+    <title lang="es">ESPN W</title>
+    <desc lang="es">ESPN W(n)</desc>
     <category lang="es">Deportes</category>
-    <category lang="es">Deportivo</category>
   </programme>
   <programme start="20160104120000 -0600" stop="20160104130000 -0600" channel="ESPN 3 HD">
     <title lang="es">ESPN Compact</title>
@@ -34999,7 +34913,7 @@
     <category lang="es">Deportes</category>
     <category lang="es">Rally</category>
   </programme>
-  <programme start="20160104093000 -0600" stop="20160104110000 -0600" channel="Fox Sports 3">
+  <programme start="20160104093000 -0600" stop="20160104103000 -0600" channel="Fox Sports 3">
     <title lang="es">Central Fox Nitro</title>
     <desc lang="es">El programa presenta en una hora un resumen en vivo de lo más importante de las carreras del fin de semana. Adicionalmente, el show contará con una emisión grabada complementaria diaria de media hora, con formato magazine con las noticias más destacadas del día(n)</desc>
     <credits>
@@ -35008,9 +34922,9 @@
     <category lang="es">Deportes</category>
     <category lang="es">Automovilismo</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="Fox Sports 3">
-    <title lang="es">Rally Dakar</title>
-    <desc lang="es">El torneo de rally más importante y exigente del mundo, donde los pilotos enfrentan los caminos y desiertos más complicados del planeta. Una competencia de gran prestigio mundial. En esta edición, los pilotos recorrerán más de ocho mil kilómetros partiendo desde Lima en Perú y pasando por Argentina para llegar a Santiago en Chile(n)</desc>
+  <programme start="20160104103000 -0600" stop="20160104120000 -0600" channel="Fox Sports 3">
+    <title lang="es">Rally Dakar Highlights</title>
+    <desc lang="es">Un programa diario con el resumen del rally Dakar, el torneo de rally más importante y exigente del mundo, donde los pilotos enfrentan los caminos y desiertos más complicados del planeta. Una competencia de gran prestigio mundial(n)</desc>
     <category lang="es">Deportes</category>
     <category lang="es">Rally</category>
   </programme>
@@ -35597,7 +35511,7 @@
     <category lang="es">Noticias</category>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20160104090000 -0600" stop="20160104110000 -0600" channel="FOX SPORTS HD">
+  <programme start="20160104090000 -0600" stop="20160104100000 -0600" channel="FOX SPORTS HD">
     <title lang="es">La última palabra</title>
     <desc lang="es">Cada noche se analiza y se debaten temas del apasionante mundo deportivo con un equipo de especialistas encabezados por André Marín; este es uno de los programas de habla hispana más importantes(n)</desc>
     <credits>
@@ -35608,16 +35522,9 @@
     <category lang="es">Noticias</category>
     <category lang="es">Deportes</category>
   </programme>
-  <programme start="20160104110000 -0600" stop="20160104120000 -0600" channel="FOX SPORTS HD">
-    <title lang="es">Central Fox</title>
-    <desc lang="es">La información deportiva a nivel mundial se conglomera en esta central y para mantenerte al tanto de lo que sucede los periodistas y columnistas especializados tendrán cinco horas y media(n)</desc>
-    <credits>
-      <actor>Ricardo Murguia</actor>
-      <actor>Pilar Perez</actor>
-      <actor>María del Valle</actor>
-      <actor>Alejandro Blanco</actor>
-      <actor>Aldo Sánchez</actor>
-    </credits>
+  <programme start="20160104100000 -0600" stop="20160104120000 -0600" channel="FOX SPORTS HD">
+    <title lang="es">Agenda Fox Sports</title>
+    <desc lang="es">Agenda Fox Sports (AFS) es el punto de partida de la información deportiva. Es la mezcla perfecta de dinamismo, entretenimiento y opinión gracias a la conducción de Fernando Schwartz y Valeria Marin(n)</desc>
     <category lang="es">Noticias</category>
     <category lang="es">Deportes</category>
   </programme>
